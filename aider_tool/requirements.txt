@@ -1,0 +1,3 @@
+crewai
+python-dotenv
+aider-chat==0.21.0
