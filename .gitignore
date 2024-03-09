@@ -1,1 +1,3 @@
 .DS_Store
+.venv
+.aider.tags.cache.v3/cache.db
